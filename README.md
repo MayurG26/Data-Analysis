@@ -1,14 +1,14 @@
-# HARNESSING MACHINE LEARNING FOR CRIME PREDICTION
+## HARNESSING MACHINE LEARNING FOR CRIME PREDICTION AND ANALYSIS
 
-## Project ID: P25
+### Project ID: P25
 
-## Project Group Members:
+### Project Group Members:
 1. Mayur Prakash Gotmare
 2. Mugdha Milind Joshi
 3. Prachi Madhukar Navale
 4. Sidharrth Sudeish Gandhi
 
-## Introduction
+### Overview
 
 **Context:**
 - Highlight the surge in crime rates in Los Angeles since 2020, attributed to economic challenges, the COVID-19 pandemic, and social unrest.
